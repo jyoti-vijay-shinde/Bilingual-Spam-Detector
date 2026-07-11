@@ -6,3 +6,4 @@ nltk
 joblib
 worldcloud
 matplotlib
+setuptools
