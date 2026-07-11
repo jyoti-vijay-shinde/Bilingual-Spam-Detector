@@ -96,8 +96,35 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
-(Add screenshots here after uploading them to GitHub.)
+### 🏠 Home Page
+
+![Home Page](screenshot/home.png)
+
+### 🇬🇧 English - Ham
+
+![English Ham](screenshot/englishham.png)
+
+### 🇬🇧 English - Spam
+
+![English Spam](screenshot/englishspam.png)
+
+### 🇮🇳 Hindi - Ham
+
+![Hindi Ham](screenshot/hindiham.png)
+
+### 🇮🇳 Hindi - Spam
+
+![Hindi Spam](screenshot/hindispam.png)
+
+### 🇮🇳 Marathi - Ham
+
+![Marathi Ham](screenshot/marathiham.png)
+
+### 🇮🇳 Marathi - Spam
+
+![Marathi Spam](screenshot/marathispam.png)
 
 ---
 
