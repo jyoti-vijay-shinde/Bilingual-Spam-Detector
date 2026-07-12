@@ -191,6 +191,8 @@ if st.button("🔍 Predict", use_container_width=True):
     # 3. Predict
     result = model.predict(vector_input)[0]
 
+    st.write("Predict Value:",result)
+
     # Debug
     # st.write("Prediction:", result)
 
